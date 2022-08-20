@@ -1,6 +1,6 @@
 f0=0 
 f1=1 
-i=2
+i=2 # taking as 2 because 0+1 = 1 so starting with 1+1=2
 echo "Enter the limit : "
 read n
 echo $f0
